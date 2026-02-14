@@ -8,7 +8,7 @@ The application allows users to securely log in using **Google OAuth** and manag
 
 ## 🔗 Live Demo
 
-- Production Link - https://smart-bookmark-akashtripathiiiii-projects.vercel.app
+- [Open Live Application](https://smart-bookmark-akashtripathiiiii-projects.vercel.app)
 
 ---
 
